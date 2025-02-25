@@ -9,6 +9,7 @@ logs/
 .breakpoints
 
 # Go-specific
+/bin/
 /vendor/
 *.exe
 *.exe~
